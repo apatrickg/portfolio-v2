@@ -2077,6 +2077,7 @@ input, select, textarea {
 			width: 100%;
 			border-top: solid 1px rgba(255, 255, 255, 0.15);
 			position: relative;
+			height: 8em;
 		}
 
 		
@@ -2085,6 +2086,7 @@ input, select, textarea {
 
 			.features section {
 				flex-direction: column;
+				height: auto
 			}
 		}
 
@@ -3114,7 +3116,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #3c3c91;
 		}
 
 		.wrapper.style2 {
